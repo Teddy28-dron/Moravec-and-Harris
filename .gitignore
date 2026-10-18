@@ -1,0 +1,13 @@
+/build/
+
+# Generated outputs
+/Moravec/moravec1.jpg
+/Moravec/keymap.jpg
+/Moravec/keymap_th.jpg
+/Harris/Harris.png
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+*.swp
